@@ -21,7 +21,7 @@ To get started with README ProGen, follow these simple steps:
 
 ## Video
 For a visual demonstration of how to use README ProGen, we have prepared a video showcasing its seamless functionality. Watch the video by clicking on the link below:
-[README Generator Video](https://example.com/readme-generator-demo)
+[README Generator Video](https://www.loom.com/share/2a6b5a8a718e45bf84dbffaf37579e99?sid=680cb94a-05c6-4f3a-89cb-6005fc87a818)
 
 ## Note
 README ProGen is a valuable tool aimed at empowering developers to create comprehensive and well-structured README files efficiently. By encouraging better documentation and collaboration within the development community, this project strives to elevate the overall quality of software projects. Get started with README ProGen today and enjoy creating READMEs like never before!
